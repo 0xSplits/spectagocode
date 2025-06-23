@@ -28,9 +28,7 @@ const (
 //	        "key": "value"
 //	    },
 //	    "metric": "teams_bridge_error_total",
-//	    "values": [
-//	        1
-//	    ]
+//	    "number": 3.141592
 //	}
 type Action struct {
 	state protoimpl.MessageState `protogen:"open.v1"`
