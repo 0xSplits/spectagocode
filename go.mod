@@ -1,6 +1,6 @@
 module github.com/0xSplits/spectagocode
 
-go 1.24.3
+go 1.24
 
 require (
 	github.com/twitchtv/twirp v8.1.3+incompatible
